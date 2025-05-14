@@ -40,11 +40,11 @@
 
 ---
 
-#### 📊 Excel Sales Insights  
-**Tools**: MS Excel  
+#### 📊 Blinkit Sales Dashboard  
+**Tools**: Power BI,MS Excel  
 🔗 [View Project](https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.pbit)  
 📷  
-<img src="" width="700" alt="Excel Dashboard"/>
+<img src="https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png" width="700" alt="Excel Dashboard"/>
 
 ---
 

@@ -32,7 +32,7 @@
 
 ### 📌 Featured Projects
 
-#### 📦 Retail Sales Dashboard  
+#### 📦 Mobile Sales Dashboard  
 **Tools**: Power BI, Excel  
 🔗 [View Project](https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit)  
 📷  

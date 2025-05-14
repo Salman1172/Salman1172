@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm [S Mohammed Salman]</h1>
+<h3 align="center">Data Analyst | Power BI • Excel • Python • MySQL</h3>
 
-<!--
-**Salman1172/Salman1172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-FAE100?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 🎯 Passionate about transforming data into actionable insights
+- 📊 Specialize in building interactive dashboards and reports
+- 📈 Keen on data storytelling and analytical problem solving
+- 💼 Currently working on real-world datasets and portfolio projects
+
+---
+
+### 🛠️ Tech Stack
+
+| Tool | Description |
+|------|-------------|
+| ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat) | Interactive dashboards and business intelligence |
+| ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat) | Data wrangling, formulas, pivot tables, charts |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | Data analysis with Pandas, NumPy, Matplotlib |
+| ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white&style=flat) | SQL querying, joins, database management |
+
+---
+
+### 📌 Featured Projects
+
+#### 📦 Retail Sales Dashboard  
+**Tools**: Power BI, Excel  
+🔗 [View Project](https://github.com/yourusername/retail-sales-dashboard)  
+📷  
+<img src="https://raw.githubusercontent.com/yourusername/retail-sales-dashboard/main/images/dashboard.png" width="700" alt="Retail Dashboard"/>
+
+---
+
+#### 📊 Excel Sales Insights  
+**Tools**: MS Excel  
+🔗 [View Project](https://github.com/yourusername/excel-sales-insights)  
+📷  
+<img src="https://raw.githubusercontent.com/yourusername/excel-sales-insights/main/images/excel-dashboard.png" width="700" alt="Excel Dashboard"/>
+
+---
+
+#### 🐍 Python Data Analysis  
+**Tools**: Python, Pandas, Matplotlib  
+🔗 [View Project](https://github.com/yourusername/python-data-analysis)  
+📷  
+<img src="https://raw.githubusercontent.com/yourusername/python-data-analysis/main/images/analysis.png" width="700" alt="Python Analysis"/>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+*Thanks for visiting my profile! ⭐ Don't forget to check out my pinned repositories!*

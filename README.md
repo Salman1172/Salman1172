@@ -42,9 +42,9 @@
 
 #### 📊 Excel Sales Insights  
 **Tools**: MS Excel  
-🔗 [View Project](https://github.com/yourusername/excel-sales-insights)  
+🔗 [View Project](https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.pbit)  
 📷  
-<img src="https://raw.githubusercontent.com/yourusername/excel-sales-insights/main/images/excel-dashboard.png" width="700" alt="Excel Dashboard"/>
+<img src="" width="700" alt="Excel Dashboard"/>
 
 ---
 

@@ -36,7 +36,7 @@
 **Tools**: Power BI, Excel  
 🔗 [View Project](https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit)  
 📷  
-<img src="https://raw.githubusercontent.com/yourusername/retail-sales-dashboard/main/images/dashboard.png" width="700" alt="Retail Dashboard"/>
+<img src="https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.png" width="700" alt="Retail Dashboard"/>
 
 ---
 

@@ -36,7 +36,7 @@
 **Tools**: Power BI, Excel  
 🔗 [View Project](https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit)  
 📷  
-<img src="https://github.com/Salman1172/Sales-Dashboard/blob/main/Sales%20Dashboard.png" width="700" alt="Retail Dashboard"/>
+<img src="https://raw.githubusercontent.com/Salman1172/Sales-Dashboard/main/Sales%20Dashboard.png" width="700" alt="Retail Dashboard"/>
 
 ---
 
@@ -44,7 +44,7 @@
 **Tools**: Power BI,MS Excel  
 🔗 [View Project](https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.pbit)  
 📷  
-<img src="https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png" width="700" alt="Excel Dashboard"/>
+<img src="https://raw.githubusercontent.com/Salman1172/Blinkit-Dashboard/main/Blinkit%20Dashboard.png" width="700" alt="Excel Dashboard"/>
 
 ---
 

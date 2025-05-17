@@ -51,8 +51,7 @@
 #### 🐍 Python Data Analysis  
 **Tools**: Python, Pandas, Matplotlib  
 🔗 [View Project](https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit.ipynb)  
-📷  
-<img src="https://github.com/Salman1172/Blinkit-Dashboard/blob/main/Blinkit.ipynb" width="700" alt="Python Analysis"/>
+
 
 ---
 
